@@ -16,7 +16,7 @@ Guide to prepare for HFT interviews (SWEs) - **WIP**, will continue to add as I 
 
   Reading:
   1. Operating Systems: Three Easy Pieces - https://pages.cs.wisc.edu/~remzi/OSTEP/
-  2. Algorithmica / HPC - https://en.algorithmica.org/hpc/ (AMAZING resource, concise and has all the basics you need/can read in < a week)
+  2. Algorithmica / HPC - https://en.algorithmica.org/hpc/ (AMAZING resource)
   3. What Every Programmer Should Know About Memory - https://people.freebsd.org/~lstewart/articles/cpumemory.pdf
   4. Performance book: https://book.easyperf.net/perf_book + https://github.com/dendibakh/perf-ninja (do the labs and watch vids after reading book)
   5. Inside The Machine - a more in-depth book about CPU hardware.
