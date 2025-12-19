@@ -43,14 +43,12 @@ Guide to prepare for HFT interviews (SWEs) - **WIP**, will continue to add as I 
   Reading:
   1. Competitive Programmer’s Handbook - https://cses.fi/book/book.pdf (short & sweet)
   2. Introduction to Algorithms - N/A (long, but whatever knowledge you need to consolidate from the CP handbook read specific chapters & answer qs)
+  3. Data Structures in Practice: https://github.com/djiangtw/data-structures-in-practice-public/tree/main (practical DS knowledge)
 
   Doing:
   1. Neetcode.io -  https://neetcode.io/practice (Do the neetcode 150)
   2. Leetcode - https://leetcode.com/ (obvious but needed, do contests on weekends to build up the skill to solve qs under time pressure)
   3. CSES Problem set - https://cses.fi/problemset/list (Harder than LC but will make you better)
-
-  Advice:
-  1. If you're going for ultra-high-frequency shops i.e HRT/Jump/XTX etc best to use cpp for your DSA prep, will help you get used to the language faster & you'll learn how to use common std lib data structures
 
 
 ## Language Specifics:
