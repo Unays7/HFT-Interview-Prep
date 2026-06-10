@@ -1,6 +1,6 @@
 # HFT-Interview-Prep
 
-Personal collection of resources I have read over the years to prepare for hft interviews, that others may find useful. 
+Personal collection of resources I have used over the years to prepare for hft interviews, that others may find useful. 
 
 <!--toc:start-->
 - [HFT-Interview-Prep](#hft-interview-prep)
@@ -53,7 +53,7 @@ Personal collection of resources I have read over the years to prepare for hft i
 
 ## Language Specifics:
 
-C++: (maybe outta date idk)
+C++:
 
   1. Learn CPP dot com - https://www.learncpp.com/ (Really good intro to cpp)
   2. Effective Modern C++ - https://www.amazon.co.uk/Effective-Modern-Specific-Ways-Improve/dp/1491903996
