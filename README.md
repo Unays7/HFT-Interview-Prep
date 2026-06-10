@@ -1,5 +1,7 @@
 # HFT-Interview-Prep
 
+Personal collection of resources I have read over the years to prepare for hft interviews, that others may find useful. 
+
 <!--toc:start-->
 - [HFT-Interview-Prep](#hft-interview-prep)
   - [Operating Systems/Low-level Knowledge:](#operating-systemslow-level-knowledge)
@@ -9,8 +11,6 @@
   - [System Design:](#system-design)
   - [Mix of All/Other Resources:](#mix-of-allother-resources)
 <!--toc:end-->
-
-Guide to prepare for HFT interviews (SWEs) - **WIP**, will continue to add as I am finding new resources myself.
 
 ## Operating Systems/Low-level Knowledge:
 
