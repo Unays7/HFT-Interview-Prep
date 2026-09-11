@@ -91,4 +91,5 @@ Jon Gjengset: Decrusting tokio crate on YT).
 
   Doing:
   1. No better way to learn than to build your own projects focused on HFT i.e. Order Book implementation, order management system, your own MM bot etc.
+1. [InterviewLegend](https://interviewlegend.com) - company-by-company interview guides for quant and HFT firms (Jane Street, Citadel, Optiver, Jump, De Shaw)
 
