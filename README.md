@@ -34,8 +34,9 @@ Personal collection of resources I have used over the years to prepare for hft i
 ## Networking:
 
   1. TCP/IP Illustrated - has all the networking knowledge needed.
-  2. Learn eBPF - (https://github.com/eunomia-bpf/bpf-developer-tutorial?tab=readme-ov-file).
-  3. io_uring - https://unixism.net/2020/04/io-uring-by-example-part-1-introduction/ + https://unixism.net/loti/
+  2. Beej’s Guide to Network Programming! - https://beej.us/guide/bgnet/pdf/bgnet_usl_c_1.pdf
+  3. Learn eBPF - (https://github.com/eunomia-bpf/bpf-developer-tutorial?tab=readme-ov-file).
+  4. io_uring - https://unixism.net/2020/04/io-uring-by-example-part-1-introduction/ + https://unixism.net/loti/
 
 
 ## DSA/Algo Interview Prep:
